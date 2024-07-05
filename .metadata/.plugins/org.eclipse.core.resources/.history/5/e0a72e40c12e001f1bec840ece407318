@@ -1,0 +1,2 @@
+spring.application.name=fullstack-backend
+spring.jpa.hibernate.ddl-auto=update

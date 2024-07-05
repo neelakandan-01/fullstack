@@ -1,0 +1,5 @@
+package com.crud.fullstack_backend.repository;
+
+public interface UserRepository {
+
+}

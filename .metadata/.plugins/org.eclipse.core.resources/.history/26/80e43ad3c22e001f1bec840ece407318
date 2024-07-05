@@ -1,0 +1,5 @@
+package com.crud.fullstack_backend.controller;
+
+public class UserController {
+
+}
